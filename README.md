@@ -146,22 +146,21 @@ The three parts should be running together.
 
 ## 📸 Screenshots
 
-Add screenshots of the project here.
-
 ### Home Page
 
-![Home Page](output Screenshot/home/project.png)
+![Home Page](screenshots/home/project.png)
 
 ### Communication Page
 
-![Communication Page](output Screenshot/communicate/communicate 1.png)
-[Communication Page](output Screenshot/communicate/communicate 2.png)
-[Communication Page](output Screenshot/communicate/communicate 3.png)
+![Communication Page 1](screenshots/communicate/communicate-1.png)
+
+![Communication Page 2](screenshots/communicate/communicate-2.png)
+
+![Communication Page 3](screenshots/communicate/communicate-3.png)
+
 ### Sign Library
 
-![Sign Library](output Screenshot/library/sign.png)
----
-
+![Sign Library](screenshots/library/sign.png)
 
 GitHub:
 https://github.com/Rudrakshi26-art
