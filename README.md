@@ -148,19 +148,19 @@ The three parts should be running together.
 
 ### Home Page
 
-![Home Page](output screenshots/home/project.png)
+![Home Page](output Screenshot/home/project.png)
 
 ### Communication Page
 
-![Communication Page 1](output screenshots/communicate/communicate-1.png)
+![Communication Page 1](output Screenshot/communicate/communicate-1.png)
 
-![Communication Page 2](output screenshots/communicate/communicate-2.png)
+![Communication Page 2](output Screenshot/communicate/communicate-2.png)
 
-![Communication Page 3](output screenshots/communicate/communicate-3.png)
+![Communication Page 3](output Screenshot/communicate/communicate-3.png)
 
 ### Sign Library
 
-![Sign Library](output screenshots/library/sign.png)
+![Sign Library](output Screenshot/library/sign.png)
 
 GitHub:
 https://github.com/Rudrakshi26-art
