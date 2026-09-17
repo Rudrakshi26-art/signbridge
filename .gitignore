@@ -1,0 +1,28 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# ML dataset
+ml/dataset/
+
+# Build files
+frontend/dist/
+backend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
