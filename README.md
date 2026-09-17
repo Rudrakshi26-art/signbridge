@@ -150,16 +150,15 @@ Add screenshots of the project here.
 
 ### Home Page
 
-*Add screenshot here*
+![Home Page](screenshots/home.png)
 
 ### Communication Page
 
-*Add screenshot here*
+![Communication Page](screenshots/communicate.png)
 
 ### Sign Library
 
-*Add screenshot here*
-
+![Sign Library](screenshots/library.png)
 ---
 
 
