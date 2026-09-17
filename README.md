@@ -146,18 +146,20 @@ The three parts should be running together.
 
 ## 📸 Screenshots
 
+Add screenshots of the project here.
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+*Add screenshot here*
 
 ### Communication Page
 
-![Communication Page](screenshots/communicate.png)
+*Add screenshot here*
 
 ### Sign Library
 
-![Sign Library](screenshots/library.png)
+*Add screenshot here*
+
 ---
 
 
